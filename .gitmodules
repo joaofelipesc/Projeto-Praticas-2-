@@ -1,0 +1,12 @@
+[submodule "Banco-de-Dados"]
+	path = Banco-de-Dados
+	url = https://github.com/Bushido-Dojo/BancoDeDados.git
+[submodule "React"]
+	path = React
+	url = https://github.com/Bushido-Dojo/BushidoDojo_React.git
+[submodule "Java-Gui"]
+	path = Java-Gui
+	url = https://github.com/Bushido-Dojo/InterfaceGrafica-AdmDojo.git
+[submodule "API"]
+	path = API
+	url = https://github.com/Bushido-Dojo/BushidoAPI-REST.git
